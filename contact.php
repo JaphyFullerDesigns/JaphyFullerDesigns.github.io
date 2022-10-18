@@ -36,5 +36,15 @@
       <h3> Email: Japhyfuller@gmail.com </h3>
 
     </div> <!-- /box info-->
-      
-    <?php include("footer.html"); ?>
+   
+<div class="box footer">
+    &copy; JF Designs 2022
+    <a href="custom_bikes.php"> Custom Bikes</a>
+    <a href="t-shirts.php"> T-shirts</a>
+    <a href="contact.php"> Contact Us</a>
+  </div> <!-- /box footer-->
+
+</div> <!--/ wrapper -->
+
+
+</body>
