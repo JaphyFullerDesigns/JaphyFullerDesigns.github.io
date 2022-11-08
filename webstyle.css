@@ -331,16 +331,16 @@ a:hover{
 
   @media only screen and (max-width: 600px) {
     .nav{
-        font-size: 90%;  
+        font-size: 80%;  
     }
 
     .footer {
-        font-size: 70%;
+        font-size: 60%;
     }
     #bikelink a{
         bottom: 0px;
     
     h2 {
-        font-size: 100%;
+        font-size: 95%;
     }
   }
